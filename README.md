@@ -6,7 +6,6 @@
 
 ## Використані технології
 * HTML
-* CSS
 * MySQL
 * WordPress CMS
 * Elementor
